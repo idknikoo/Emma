@@ -1,0 +1,2 @@
+# Emma
+Discord bot
